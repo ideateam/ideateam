@@ -5,5 +5,5 @@
   <img width = "150" height = "100" align="center" src="https://github.com/ideateam/ideateam/blob/main/timg.jpeg" />
 </a>
 <a href="">
-  <img width = "150" height = "100" align="center" src="https://dss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1593106255,4245861836&fm=26&gp=0.jpg" />
+  <img width = "150" height = "100" align="center" src="https://github.com/ideateam/ideateam/blob/main/8aa854fffd1211a9198e7996fc76353f.jpg" />
 </a>
